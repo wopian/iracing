@@ -1,0 +1,16 @@
+airosters
+cache
+cameras
+cui_app_cache
+lapfiles
+logs
+paint
+replay
+screenshots
+telemetry
+videos
+setups/**/-Current-
+setups/**/*.sto
+setups/**/*.htm
+!setups/**/*.cfg
+*.dat
