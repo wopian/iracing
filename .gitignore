@@ -14,3 +14,4 @@ setups/**/*.sto
 setups/**/*.htm
 !setups/**/*.cfg
 *.dat
+*.log
