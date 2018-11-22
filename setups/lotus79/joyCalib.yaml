@@ -1,6 +1,29 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'Controller (Xbox One For Windows)'
+   InstanceGUID: '{E9CD93D0-9228-11E6-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 32768
+   - Axis: 1
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 33353
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'X Rotation'
+     CalibMin: 0
+     CalibCenter: 34144
+     CalibMax: 65535
+   - Axis: 4
+     AxisName: 'Z Axis'
+     CalibMin: 128
+     CalibCenter: 32768
+     CalibMax: 65408
  - DeviceName: 'Logitech G29 Driving Force Racing Wheel USB'
    InstanceGUID: '{30EC49C0-F915-11E6-8005-444553540000}'
    AxisList:
@@ -24,24 +47,6 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 255
      CalibMax: 255
- - DeviceName: 'Controller (Xbox One For Windows)'
-   InstanceGUID: '{E9CD93D0-9228-11E6-8001-444553540000}'
-   AxisList:
-   - Axis: 1
-     AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 32789
-     CalibMax: 65535
-   - Axis: 3
-     AxisName: 'X Rotation'
-     CalibMin: 0
-     CalibCenter: 34668
-     CalibMax: 65535
-   - Axis: 4
-     AxisName: 'Z Axis'
-     CalibMin: 128
-     CalibCenter: 32768
-     CalibMax: 65408
  - DeviceName: 'Logitech G29 Driving Force Racing Wheel USB'
    InstanceGUID: '{30E96390-F915-11E6-8003-444553540000}'
    AxisList:
