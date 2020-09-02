@@ -1,0 +1,3 @@
+*.cfg linguist-detectable
+*.ini linguist-detectable
+*.txt linguist-detectable
